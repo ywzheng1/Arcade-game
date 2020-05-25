@@ -1,6 +1,8 @@
 # Classic Arcade Game Clone Project
 This is a project from Udacity's Nanodegree program "Front-End Web Developer".
 
+To view linve project, visit this github page: https://github.com/ywzheng1/Arcade-game
+
 
 ## Run game
 Click on "Clone or Downlaod" on this repository page and download it as ZIP. Extract the folder content and open "index.html" from a brownser for the game to run.
